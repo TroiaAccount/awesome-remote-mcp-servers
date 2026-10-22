@@ -934,6 +934,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [OtaKit](https://otakit.app) `https://console.otakit.app/mcp`
   [![OtaKit MCP connector](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.OtaKit/otakit)
   🔐 - Ship over-the-air updates for Capacitor apps: publish releases with approval, control rollouts, read health, revert.
+- [Pandus Accessibility](https://pandus.online/en/accessibility-mcp-server) `https://pandus.online/mcp`
+  [![Pandus Accessibility MCP connector](https://glama.ai/mcp/connectors/online.pandus/accessibility/badges/score.svg)](https://glama.ai/mcp/connectors/online.pandus/accessibility)
+  🔐 - Explains WCAG 2.2 accessibility rules for free; with an account, what to fix on your sites and new checks.
 - [PartReel](https://partreel.com) `https://mcp.partreel.com/mcp`
   🔓 - Search and fetch 21k+ verified KiCad parts with symbol, footprint and 3D model for PCB design; CC-BY-4.0.
 - [PDFOven](https://pdfoven.com) `https://pdfoven.com/mcp`
